@@ -1,5 +1,5 @@
 
-# CRUD - JAVA - MySql - Spring Boot
+# CRUD - JAVA - MySql - Spring Boot - Spring data JPA - Thymeleaf
 
 Aplicación de negocios Java con función CRUD hecha para el control de productos tecnológicos.
 
